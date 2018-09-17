@@ -90,8 +90,8 @@ mexZED_EXTERNAL_OBJECTS =
 
 mex/mexZED.mexa64: mex/CMakeFiles/mexZED.dir/mexZED.cpp.o
 mex/mexZED.mexa64: mex/CMakeFiles/mexZED.dir/build.make
-mex/mexZED.mexa64: /usr/local/MATLAB/R2017a/bin/glnxa64/libmex.so
-mex/mexZED.mexa64: /usr/local/MATLAB/R2017a/bin/glnxa64/libmx.so
+mex/mexZED.mexa64: /usr/local/MATLAB/R2018a/bin/glnxa64/libmex.so
+mex/mexZED.mexa64: /usr/local/MATLAB/R2018a/bin/glnxa64/libmx.so
 mex/mexZED.mexa64: /usr/local/zed/lib/libsl_input.so
 mex/mexZED.mexa64: /usr/local/zed/lib/libsl_core.so
 mex/mexZED.mexa64: /usr/local/zed/lib/libsl_zed.so

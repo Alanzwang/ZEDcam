@@ -5,9 +5,9 @@ mex/CMakeFiles/mexZED.dir/mexZED.cpp.o: /home/zeliang/Gitdocs/Codes/ZEDcam/zed-m
 mex/CMakeFiles/mexZED.dir/mexZED.cpp.o: /home/zeliang/Gitdocs/Codes/ZEDcam/zed-matlab/src/include/mc_convert.h
 mex/CMakeFiles/mexZED.dir/mexZED.cpp.o: /home/zeliang/Gitdocs/Codes/ZEDcam/zed-matlab/src/include/types.h
 mex/CMakeFiles/mexZED.dir/mexZED.cpp.o: /home/zeliang/Gitdocs/Codes/ZEDcam/zed-matlab/src/mex/mexZED.cpp
-mex/CMakeFiles/mexZED.dir/mexZED.cpp.o: /usr/local/MATLAB/R2017a/extern/include/matrix.h
-mex/CMakeFiles/mexZED.dir/mexZED.cpp.o: /usr/local/MATLAB/R2017a/extern/include/mex.h
-mex/CMakeFiles/mexZED.dir/mexZED.cpp.o: /usr/local/MATLAB/R2017a/extern/include/tmwtypes.h
+mex/CMakeFiles/mexZED.dir/mexZED.cpp.o: /usr/local/MATLAB/R2018a/extern/include/matrix.h
+mex/CMakeFiles/mexZED.dir/mexZED.cpp.o: /usr/local/MATLAB/R2018a/extern/include/mex.h
+mex/CMakeFiles/mexZED.dir/mexZED.cpp.o: /usr/local/MATLAB/R2018a/extern/include/tmwtypes.h
 mex/CMakeFiles/mexZED.dir/mexZED.cpp.o: /usr/local/cuda-9.2/include/builtin_types.h
 mex/CMakeFiles/mexZED.dir/mexZED.cpp.o: /usr/local/cuda-9.2/include/channel_descriptor.h
 mex/CMakeFiles/mexZED.dir/mexZED.cpp.o: /usr/local/cuda-9.2/include/common_functions.h

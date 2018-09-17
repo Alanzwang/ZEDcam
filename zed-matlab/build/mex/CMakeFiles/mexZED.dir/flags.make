@@ -6,5 +6,5 @@ CXX_FLAGS = -fPIC   -std=c++0x
 
 CXX_DEFINES = -DMATLAB_MEX_FILE -DMX_COMPAT_32 -DmexZED_EXPORTS
 
-CXX_INCLUDES = -I/usr/local/MATLAB/R2017a/extern/include -I/home/zeliang/Gitdocs/Codes/ZEDcam/zed-matlab/src/include -I/usr/local/cuda-9.2/include -I/usr/local/zed/include -isystem /usr/local/include -isystem /usr/local/include/opencv -I/home/zeliang/Gitdocs/Codes/ZEDcam/zed-matlab/src/mex/include 
+CXX_INCLUDES = -I/usr/local/MATLAB/R2018a/extern/include -I/home/zeliang/Gitdocs/Codes/ZEDcam/zed-matlab/src/include -I/usr/local/cuda-9.2/include -I/usr/local/zed/include -isystem /usr/local/include -isystem /usr/local/include/opencv -I/home/zeliang/Gitdocs/Codes/ZEDcam/zed-matlab/src/mex/include 
 

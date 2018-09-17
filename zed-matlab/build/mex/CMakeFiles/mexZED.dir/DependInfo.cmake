@@ -16,7 +16,7 @@ set(CMAKE_TARGET_DEFINITIONS_CXX
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
-  "/usr/local/MATLAB/R2017a/extern/include"
+  "/usr/local/MATLAB/R2018a/extern/include"
   "/home/zeliang/Gitdocs/Codes/ZEDcam/zed-matlab/src/include"
   "/usr/local/cuda-9.2/include"
   "/usr/local/zed/include"

@@ -281,16 +281,16 @@ CUDA_npps_LIBRARY:FILEPATH=/usr/local/cuda-9.2/lib64/libnpps.so
 CUDA_rt_LIBRARY:FILEPATH=/usr/lib/x86_64-linux-gnu/librt.so
 
 //Path to a file.
-MATLAB_INCLUDE_DIR:PATH=/usr/local/MATLAB/R2017a/extern/include
+MATLAB_INCLUDE_DIR:PATH=/usr/local/MATLAB/R2018a/extern/include
 
 //Path to a library.
-MATLAB_MEX_LIBRARY:FILEPATH=/usr/local/MATLAB/R2017a/bin/glnxa64/libmex.so
+MATLAB_MEX_LIBRARY:FILEPATH=/usr/local/MATLAB/R2018a/bin/glnxa64/libmex.so
 
 //Path to a library.
-MATLAB_MX_LIBRARY:FILEPATH=/usr/local/MATLAB/R2017a/bin/glnxa64/libmx.so
+MATLAB_MX_LIBRARY:FILEPATH=/usr/local/MATLAB/R2018a/bin/glnxa64/libmx.so
 
 //directory
-MATLAB_ROOT:FILEPATH=/usr/local/MATLAB/R2017a
+MATLAB_ROOT:FILEPATH=/usr/local/MATLAB/R2018a
 
 //Value Computed by CMake
 MEX_BINARY_DIR:STATIC=/home/zeliang/Gitdocs/Codes/ZEDcam/zed-matlab/build
@@ -307,7 +307,7 @@ ZED_DIR:PATH=/usr/local/zed
 ZED_FOUND:BOOL=TRUE
 
 //Dependencies for the target
-mexZED_LIB_DEPENDS:STATIC=general;/usr/local/MATLAB/R2017a/bin/glnxa64/libmex.so;general;/usr/local/MATLAB/R2017a/bin/glnxa64/libmx.so;general;/usr/local/zed/lib/libsl_input.so;general;/usr/local/zed/lib/libsl_core.so;general;/usr/local/zed/lib/libsl_zed.so;general;opencv_core;general;opencv_highgui;general;opencv_imgproc;general;/usr/local/cuda-9.2/lib64/libcudart_static.a;general;-lpthread;general;dl;general;/usr/lib/x86_64-linux-gnu/librt.so;general;/usr/local/cuda-9.2/lib64/libnppial.so;general;/usr/local/cuda-9.2/lib64/libnppisu.so;general;/usr/local/cuda-9.2/lib64/libnppicc.so;general;/usr/local/cuda-9.2/lib64/libnppicom.so;general;/usr/local/cuda-9.2/lib64/libnppidei.so;general;/usr/local/cuda-9.2/lib64/libnppif.so;general;/usr/local/cuda-9.2/lib64/libnppig.so;general;/usr/local/cuda-9.2/lib64/libnppim.so;general;/usr/local/cuda-9.2/lib64/libnppist.so;general;/usr/local/cuda-9.2/lib64/libnppitc.so;general;/usr/local/cuda-9.2/lib64/libnpps.so;
+mexZED_LIB_DEPENDS:STATIC=general;/usr/local/MATLAB/R2018a/bin/glnxa64/libmex.so;general;/usr/local/MATLAB/R2018a/bin/glnxa64/libmx.so;general;/usr/local/zed/lib/libsl_input.so;general;/usr/local/zed/lib/libsl_core.so;general;/usr/local/zed/lib/libsl_zed.so;general;opencv_core;general;opencv_highgui;general;opencv_imgproc;general;/usr/local/cuda-9.2/lib64/libcudart_static.a;general;-lpthread;general;dl;general;/usr/lib/x86_64-linux-gnu/librt.so;general;/usr/local/cuda-9.2/lib64/libnppial.so;general;/usr/local/cuda-9.2/lib64/libnppisu.so;general;/usr/local/cuda-9.2/lib64/libnppicc.so;general;/usr/local/cuda-9.2/lib64/libnppicom.so;general;/usr/local/cuda-9.2/lib64/libnppidei.so;general;/usr/local/cuda-9.2/lib64/libnppif.so;general;/usr/local/cuda-9.2/lib64/libnppig.so;general;/usr/local/cuda-9.2/lib64/libnppim.so;general;/usr/local/cuda-9.2/lib64/libnppist.so;general;/usr/local/cuda-9.2/lib64/libnppitc.so;general;/usr/local/cuda-9.2/lib64/libnpps.so;
 
 
 ########################
